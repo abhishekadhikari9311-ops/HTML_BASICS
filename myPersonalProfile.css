@@ -1,0 +1,37 @@
+h1 {
+  font-size: 20px;
+  text-align: center;
+  margin: 25px 450px;
+  border: 2px dotted blue;
+  width: 285px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.main {
+  border: 2px dotted black;
+  text-align: center;
+  width: 250px;
+  margin: 25px 450px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+footer {
+  border: 2px dotted black;
+  text-align: center;
+  width: 250px;
+  margin: 25px 450px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+}
+
+/* .container {
+  border: 2px solid black;
+  justify-content: center;
+  width: 350px;
+  text-align: center;
+  margin: 30px 130px 30px 190px;
+  padding: 10px 35px 10px -15px;
+} */
