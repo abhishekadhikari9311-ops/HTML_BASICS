@@ -1,0 +1,12 @@
+body {
+  background-image: url("./salman.webp");
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  color: rgb(0 255 0 / 1);
+}
