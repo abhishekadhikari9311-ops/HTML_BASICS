@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  border: 2px solid green;
+  /* height:780px; */
+  /* width: 1400px; */
+}
+
+h1 {
+  text-align: center;
+  margin: 60px 0 60px 0;
+}
+
+img {
+  border: 5px solid green;
+  width: 100px;
+  height: auto; /* by default */
+  margin: 0 0 0 675px;
+}
+
+p {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 645px;
+  margin: auto;
+}
+
+.child {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.Contact {
+  font-weight: bolder;
+  margin: 20px 0 20px 0;
+}
+
