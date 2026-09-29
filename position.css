@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  column-gap: 0px;
+  border: 5px solid red;
+  height: 185vh;
+  /* position: relative; */
+}
+.child {
+  width: 25%;
+  height: 30vh;
+  border: 2px solid black;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-2 {
+  font-weight: bolder;
+  position: sticky;
+  top: 550vh;
+  left: 250px;
+}
+.item-1 {
+  position: absolute;
+  top: 125px;
+  left: 25px;
+}
