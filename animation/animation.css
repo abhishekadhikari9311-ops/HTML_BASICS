@@ -1,0 +1,19 @@
+h1 {
+  animation: helloWorld 30s ease-in-out infinite;
+}
+
+@keyframes helloWorld {
+  0% {
+    background-color: red;
+  }
+  10% {
+    background-color: green;
+    font-size: 45px;
+  }
+  60% {
+    background-color: purple;
+  }
+  100% {
+    background-color: skyblue;
+  }
+}
