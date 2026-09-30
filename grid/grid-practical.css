@@ -20,6 +20,8 @@
 
 .item-1 {
   grid-area: header;
+  text-align: center;
+  background-color: blue;
 }
 .item-2 {
   grid-area: navigation-menu;
