@@ -1,13 +1,3 @@
-// console.log("learning js ki duniya.   hi sathii k xa kbr.....!");
-// console.log("hello sansaar--- world");
-
-// var cupGlass = "coffee";
-
-// cupGlass = true;
-// console.log(cupGlass);
-
-// they all are called as the simple example of variables
-
 // var name1 = "abhishek adhikari";
 // var name2 = "raj anandat";
 // var name3 = "pratik singh";
