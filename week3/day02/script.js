@@ -34,16 +34,18 @@
 
 var names = ["hi", "hello", "radhe gopal", "shyam ji"];
 
-names.push(40);
+// names.push(40);
 
-names.pop();
+// names.pop();
 
-names.unshift("bye");
+// names.unshift("bye");
 
-names.shift();
+// names.shift();
 
-console.log(names[0]);
+// console.log(names[0]);
 
-console.log(names.length);
+// console.log(names.length);
+
+console.log(names.includes("hello"));
 
 console.log(names);
